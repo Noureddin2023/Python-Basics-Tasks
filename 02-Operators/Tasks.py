@@ -50,7 +50,9 @@
 
 # 9 : Using python print the module of 11 to 4
 '''
-
+for (x=11, x>=4,x--){
+print x
+}
 '''
 
 # 10 : Print the exponent of 2,3
