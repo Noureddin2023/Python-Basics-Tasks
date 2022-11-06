@@ -50,8 +50,8 @@
 
 # 9 : Using python print the module of 11 to 4
 '''
-    11%4
-     3
+     11%4
+      3
 '''
 
 # 10 : Print the exponent of 2,3
