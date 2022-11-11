@@ -1,19 +1,37 @@
 # 1 : Check if 10 is bigger than 15 or not
+'''
+   10>15
+   False
 
+'''
 
 
 
 # 2 : If 10 is not bigger than 15 print x is smaller than 15
+'''
+n = 10
+if n > 15:
+    print('10 is bigger than 15')
+else:
+    print(' 10 is smaller than 15')
+
+    
+ 10 is smaller than 15
 
 
-
-
+'''
 # 3 : In wich cases we will use all
 
+Using [ all ] with more than one condition
 
 
 
 # 4 : What is the differences between all , and
+'''
+   and = returns True only if both operands are True
+   all = returns True if all the list items are True
+
+'''
 
 
 
