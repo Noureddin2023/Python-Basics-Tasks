@@ -1,11 +1,13 @@
 # 1 : Check if 10 is bigger than 15 or not
 '''
-   10>15
-   False
+ n = 10
+if n>15:
+    print('10 is begger than 15')
+
+    
+Nothing
 
 '''
-
-
 
 # 2 : If 10 is not bigger than 15 print x is smaller than 15
 '''
@@ -21,10 +23,9 @@ else:
 
 '''
 # 3 : In wich cases we will use all
-
-Using [ all ] with more than one condition
-
-
+'''
+    Using [ all ] with more than one condition
+'''
 
 # 4 : What is the differences between all , and
 '''
@@ -33,45 +34,52 @@ Using [ all ] with more than one condition
 
 '''
 
-
-
-
-# 5 : What is the differences between any , or
-
-
-
+#  5 : What is the differences between any , or
+'''
+     or: returns True in any one of the boolean expressions passed is True
+    any: returns True if any element of an iterable is True
+'''
 
 # 6 : If we need all The conditions to be true we will use ....
 
-
-
+'''
+    if
+'''
 
 # 7 : What is the differences between if , elif
-
-
-
+''' 
+    if: executed if the first condition is true
+  elif: to test a new condition if previous condition isn´t true
+  
+'''
 
 # 8 : What is the differences between eilf , else
-
-
-
+'''
+    eilf: to test a new condition if previous condition isn´t true
+    else: to Provide another option incase the if condition is false, else code will be execute
+'''
 
 # 9 : Can we use more than one elif
-
-
-
+'''
+    yes, we can
+'''
 
 # 10 : Can we use more than one else
 
-
-
+'''
+   yes, we can with elif
+   
+'''
 
 # 11 : write s simple ternary operator
+'''
+   n = 7
+   print ('n>5') if n>7 else print('error')
+   
+'''
 
 
-
-
-# 12 : in elif , python will check all the conditions or matter, what ?
+# 12 : in elif , python will check all the conditions no matter, what ?
 
 
 
