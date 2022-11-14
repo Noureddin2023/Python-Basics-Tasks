@@ -97,6 +97,7 @@ the elif conditions are applied after the if condition and Python will evalute t
          list = [2,4,6,8,10]
          if 4 in list :
          print('ok')
+         ok
      '''
          2. check to see if 4 and 6 in this list or not
          3. check to see if 3 or 6 in this list
