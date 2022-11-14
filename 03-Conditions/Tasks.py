@@ -80,17 +80,24 @@ else:
 
 
 # 12 : in elif , python will check all the conditions no matter, what ?
+'''
+the elif conditions are applied after the if condition and Python will evalute the if condition and if it evaluates to False then it will evalute the elif blocks and execute the elif block whose expression evaluates to True. If multiple elif conditions become True, then the first elif block will be executed.
 
-
-
+'''
 
 # 13 : in elif we us else for  ... ?
-
-
+'''
+   executed all attached 'elif' statements are false.
+'''
 
 
 # 14 : if we have this list [2,4,6,8,10]:
          1. check to see if 4 in this list or not
+     '''
+         list = [2,4,6,8,10]
+         if 4 in list :
+         print('ok')
+     '''
          2. check to see if 4 and 6 in this list or not
          3. check to see if 3 or 6 in this list
          4. check to see if 2,4 and 5 in this list 
