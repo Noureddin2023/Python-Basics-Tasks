@@ -97,8 +97,32 @@ the elif conditions are applied after the if condition and Python will evalute t
          list = [2,4,6,8,10]
          if 4 in list :
          print('ok')
+         ok
      '''
          2. check to see if 4 and 6 in this list or not
+         '''
+           x = [2,4,6,8,10]
+          if 4 and 6 in x :
+          print('yes')
+          else:
+          print('No')
+          yes
+    '''
          3. check to see if 3 or 6 in this list
+         '''
+         x = [2,4,6,8,10]
+         if 3 or 6 in x :
+         print('yes')
+         else:
+         print('No')
+         yes
+        '''
          4. check to see if 2,4 and 5 in this list 
-
+'''
+         x = [2,4,6,8,10]
+         if  all([2 in x ,4 in x,5 in x]) :
+         print('yes')
+         else:
+         print('No')
+         No
+'''
