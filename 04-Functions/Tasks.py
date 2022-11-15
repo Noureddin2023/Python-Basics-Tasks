@@ -31,7 +31,7 @@ print(n)
 
 # 4 : In the above return function, give x and y default values of 0 and call the function with no argument
 
-def nour(x=0,y=0):
+def nour(x=1,y=0):
     result=x*y
     return result
     
