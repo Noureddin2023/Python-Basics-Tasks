@@ -57,12 +57,12 @@ for n in range (10,103,3):
 
 # 8 : Get a list of even numbers from 1 to 100 using for
 
-even_numbers_list = []
+even-numbers-list = []
 for x in range(1,101) :
    if  x%2 == 0:
-      even_numbers_list.append (x)
+      even-numbers-list.append (x)
       
-print (even_numbers_list)
+print (even-numbers-list)
 
 
 
