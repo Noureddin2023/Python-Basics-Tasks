@@ -71,5 +71,5 @@ while n<101:
 
 
 # 10 : Get a list of even numbers from 1 to 100 using range
-list(range(0,101,2))
+list(range(2,101,2))
 '''
