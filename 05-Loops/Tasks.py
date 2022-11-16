@@ -62,14 +62,14 @@ for n in range (10,103,3):
 
 # 9 : Get a list of even numbers from 1 to 100 using while
 
-n=1
+n=0
 while n<101:
     print(n)
-    n+=1
+    n+=2
 
 
 
 
 # 10 : Get a list of even numbers from 1 to 100 using range
-list(range(1,101))
+list(range(0,101,2))
 '''
