@@ -72,9 +72,9 @@ even_numbers_list = []
 n=2
 while n<=100:
 even_numbers_list.append (n)
-    print (even_numbers_list)
     n+=2
-
+    
+print (even_numbers_list)
 
 
 
