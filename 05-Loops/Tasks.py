@@ -68,10 +68,11 @@ print (even_numbers_list)
 
 
 # 9 : Get a list of even numbers from 1 to 100 using while
-
-n=0
-while n<101:
-    print(n)
+even_numbers_list = []
+n=2
+while n<=100:
+even_numbers_list.append (n)
+    print (even_numbers_list)
     n+=2
 
 
