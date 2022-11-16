@@ -57,6 +57,11 @@ for n in range (10,103,3):
 
 # 8 : Get a list of even numbers from 1 to 100 using for
 
+x =0
+for x%2 == 0 :
+   if x>=1 and x<=100:
+      print (x)
+
 
 
 
