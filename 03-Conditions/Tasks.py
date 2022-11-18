@@ -24,7 +24,7 @@ else:
 '''
 # 3 : In wich cases we will use all
 '''
-    Using [ all ] with more than one condition
+  Using [ all ] with more than one condition
 '''
 
 # 4 : What is the differences between all , and
@@ -37,13 +37,13 @@ else:
 #  5 : What is the differences between any , or
 '''
      or: returns True in any one of the boolean expressions passed is True
-    any: returns True if any element of an iterable is True
+     any: returns True if any element of an iterable is True
 '''
 
 # 6 : If we need all The conditions to be true we will use ....
 
 '''
-    if
+    all
 '''
 
 # 7 : What is the differences between if , elif
@@ -67,7 +67,8 @@ else:
 # 10 : Can we use more than one else
 
 '''
-   yes, we can with elif
+   no more than one else
+   no more than one if
    
 '''
 
@@ -87,7 +88,7 @@ the elif conditions are applied after the if condition and Python will evalute t
 
 # 13 : in elif we us else for  ... ?
 '''
-   executed all attached 'elif' statements are false.
+   else = default choice , if no true conditions else will be executed
 '''
 
 
