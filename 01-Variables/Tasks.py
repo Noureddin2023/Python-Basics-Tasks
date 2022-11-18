@@ -6,16 +6,14 @@ y = 7
 y_x = 7
 y2 = 7
 # 3 : Create a float variable named z
-z = 5,5
+z = 5.5
 # 4 : Create a string variable names s
 s = 'nour'
 s = "nour"
 s = '''nour'''
 # 5 : Convert the int variable to float
 s = 12
-type(s)
-<class 'int'>
-s = 12/4
+n=float(s)
 type(s)
 <class 'float'>
 # 6 : Can we convert the str to int ?
@@ -29,10 +27,8 @@ n = [1,2,3,4,5]
 # 8 : Create a tuple from 10 to 15
 n = (10,11,12,13,14,15)
 # 9 : Convert the list to tuple
-s = ['nour']
-s = ['nour'],['mohamed']
-type(s)
-<class 'tuple'>
+s = [1,2,3,4]
+n = tuple(s)
 # 10 : Create a dict of 3 values
 n = {'nour':20 , 'mohamed':25 , 'mahmoud':30 }
 # 11 : Can we use semi colon; with python ?
@@ -45,7 +41,7 @@ Python is interpreted
 
     Basic                    Programmer amiable         Machinefriendly
           
-Speed of execution                Fast                       Slow
+Speed of execution                Slow                     Fast
 
   Translation                   Requires                   Assembler
                        compiler or an interpreter     is required while machine language is directly executed
