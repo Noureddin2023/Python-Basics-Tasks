@@ -22,7 +22,7 @@
 
 # 5 : Increase x value by 15 using assignment operators
 '''
-    x = x + 15
+    x+=15
     x
     25
 '''
@@ -71,5 +71,7 @@
 
 # 12 : Can we divide 11 by 3 and get an integer number?
 '''
+yes
 
+11//3
 '''
