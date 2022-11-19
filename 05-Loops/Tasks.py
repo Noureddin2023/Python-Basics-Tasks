@@ -8,7 +8,7 @@
 # 2 : Print numbers from 0 to 10 using for
 
 
-for n in [0,1,2,3,4,5,6,7,8,9,10]:
+for n in range [0,11]:
     print(n)
     
 
@@ -51,7 +51,7 @@ for n in range (10,21):
 
 # 7 : How to get numbers from 10 to 100 with 3 at each step using range
 
-for n in range (10,103,3):
+for n in range (10,101,3):
       print(n)
 
 
@@ -62,7 +62,14 @@ for x in range(1,101):
     if x%2 == 0:
      even_numbers_list.append(x)
 print (even_numbers_list)
+----------------------------
+even_numbers_list = []
+n=0
+while n<=100:
+  even_numbers_list.append (n)
+  n+=2
 
+print (even_numbers_list)
 
 
 

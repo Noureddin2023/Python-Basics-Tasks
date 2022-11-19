@@ -75,7 +75,7 @@ else:
 # 11 : write s simple ternary operator
 '''
    n = 7
-   print ('n>5') if n>7 else print('error')
+   print ('n>5') if n>5 else print('error')
    
 '''
 
