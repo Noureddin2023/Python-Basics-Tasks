@@ -42,7 +42,8 @@ len(n)
 # 8 : replace the second element in the list with 100
 
 n=[10,11,12,13,14,15,16,17,18,19,20]
-n.replace(11,100)
+n[1]=100
+n
 
 
 
