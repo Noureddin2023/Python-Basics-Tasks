@@ -1,5 +1,5 @@
 # 1 : Create a simple function that takes 2 numbers and print their values
-'''
+
 def nour(x,y):
     print(x+y)
     
@@ -72,7 +72,7 @@ print(n)
 
 
 # 8 : Write the difference between the local variable and global variable   
-
+'''
  If we create a variable with the same name inside a function, this variable will be local, and can only be used inside the function. The global variable with the same name will remain as it was, global and with the original value.
 '''
  
