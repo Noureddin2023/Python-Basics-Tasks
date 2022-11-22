@@ -38,4 +38,9 @@
 
 
 
-# 9 : Call the mull method with 10 , 20 
+# 9 : Call the mull method with 10 , 20
+
+
+
+
+# 10 : Explain in few words why we call the self in methods
