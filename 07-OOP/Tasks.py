@@ -49,3 +49,8 @@
 
 
 # 11 : What we mean with OOP 4 Pillars
+
+
+
+
+# 12 : Why we use OOP in our code
