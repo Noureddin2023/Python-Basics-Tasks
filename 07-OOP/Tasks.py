@@ -35,3 +35,7 @@
 
 # 8 : Call the sum method with 10 , 20
 
+
+
+
+# 9 : Call the mull method with 10 , 20 
