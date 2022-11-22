@@ -19,3 +19,8 @@
 
 
 # 5 : The sum method return the sum of 2 arguments x and y
+
+
+
+
+# 6 : The mull method return the multiplication of the arguments x and y
