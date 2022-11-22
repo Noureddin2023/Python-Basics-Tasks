@@ -44,3 +44,8 @@
 
 
 # 10 : Explain in few words why we call the self in methods
+
+
+
+
+# 11 : What we mean with OOP 4 Pillars
