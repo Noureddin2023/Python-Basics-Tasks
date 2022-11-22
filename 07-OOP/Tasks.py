@@ -3,4 +3,4 @@
 
 
 
-# 2 -
+# 2 - Creat a simple class names calculator
