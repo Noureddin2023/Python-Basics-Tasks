@@ -9,3 +9,8 @@
 
 
 # 3 : Create a constructor that prints Welcome message
+
+
+
+
+# 4 : Add 2 methods to the class & mull
