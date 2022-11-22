@@ -14,3 +14,8 @@
 
 
 # 4 : Add 2 methods to the class & mull
+
+
+
+
+# 5 : The sum method return the sum of 2 arguments x and y
