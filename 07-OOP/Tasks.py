@@ -31,3 +31,7 @@
 # 7 : Take an object from the class
 
 
+
+
+# 8 : Call the sum method with 10 , 20
+
