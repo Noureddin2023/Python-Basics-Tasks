@@ -24,3 +24,10 @@
 
 
 # 6 : The mull method return the multiplication of the arguments x and y
+
+
+
+
+# 7 : Take an object from the class
+
+
