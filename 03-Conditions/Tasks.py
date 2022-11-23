@@ -1,5 +1,5 @@
 # 1 : Check if 10 is bigger than 15 or not
-'''
+
  n = 10
 if n>15:
     print('10 is begger than 15')
@@ -7,10 +7,10 @@ if n>15:
     
 Nothing
 
-'''
+
 
 # 2 : If 10 is not bigger than 15 print x is smaller than 15
-'''
+
 n = 10
 if n > 15:
     print('10 is bigger than 15')
@@ -21,7 +21,7 @@ else:
  10 is smaller than 15
 
 
-'''
+
 # 3 : In wich cases we will use all
 '''
   Using [ all ] with more than one condition
@@ -73,11 +73,11 @@ else:
 '''
 
 # 11 : write s simple ternary operator
-'''
+
    n = 7
    print ('n>5') if n>5 else print('error')
    
-'''
+
 
 
 # 12 : in elif , python will check all the conditions no matter, what ?
@@ -94,36 +94,36 @@ the elif conditions are applied after the if condition and Python will evalute t
 
 # 14 : if we have this list [2,4,6,8,10]:
          1. check to see if 4 in this list or not
-     '''
+     
          list = [2,4,6,8,10]
          if 4 in list :
          print('ok')
          ok
-     '''
+     
          2. check to see if 4 and 6 in this list or not
-         '''
+         
            x = [2,4,6,8,10]
           if 4 and 6 in x :
           print('yes')
           else:
           print('No')
           yes
-    '''
+    
          3. check to see if 3 or 6 in this list
-         '''
+         
          x = [2,4,6,8,10]
          if 3 or 6 in x :
          print('yes')
          else:
          print('No')
          yes
-        '''
+        
          4. check to see if 2,4 and 5 in this list 
-'''
+
          x = [2,4,6,8,10]
          if  all([2 in x ,4 in x,5 in x]) :
          print('yes')
          else:
          print('No')
          No
-'''
+

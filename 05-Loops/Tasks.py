@@ -1,5 +1,5 @@
 # 1 : Print numbers from 0 to 10 using while
-'''
+
    n=0
    while n<11:print(n);n+=1
 
@@ -86,4 +86,4 @@ print (even_numbers_list)
 
 # 10 : Get a list of even numbers from 1 to 100 using range
 list(range(2,101,2))
-'''
+
