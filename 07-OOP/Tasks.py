@@ -15,6 +15,13 @@ Example: Apple : iphone 14:
 
 # 2 : Create a simple class names calculator
 
+class Calculator:
+    def nour(n,x,y):
+        print(x+y)
+
+m = Calculator()
+m.nour(5,7)
+
 
 
 
