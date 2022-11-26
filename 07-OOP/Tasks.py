@@ -27,7 +27,7 @@ m.nour(5,7)
 
 # 3 : Create a constructor that prints Welcome message
 class Calculator:
-    def nour(n,x,y):
+    def summ(n,x,y):
         print(x+y)
 
     def __init__(self):
@@ -38,6 +38,15 @@ m = Calculator()
 
 
 # 4 : Add 2 methods to the class & mull
+
+class Calculator:
+    def summ(n,x,y):
+        print(x+y)
+
+    def mull(l,x,y):
+        print(x*Y)
+
+
 
 
 
