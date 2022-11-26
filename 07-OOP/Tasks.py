@@ -26,7 +26,14 @@ m.nour(5,7)
 
 
 # 3 : Create a constructor that prints Welcome message
+class Calculator:
+    def nour(n,x,y):
+        print(x+y)
 
+    def __init__(self):
+        print('Welcom')
+
+m = Calculator()        
 
 
 
