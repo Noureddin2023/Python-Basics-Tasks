@@ -80,7 +80,7 @@ c = Calculator
 # 8 : Call the sum method with 10 , 20
 class Calculator:
     def sum(self,x,y):
-        print(x+y)
+ß        print(x+y)
     
     def mull(x,y):
         
@@ -111,7 +111,10 @@ By using the “self” we can access the attributes and methods of the class in
 
 # 11 : What we mean with OOP 4 Pillars
 '''
-
+  - encapsulation
+  - inheritance
+  - polymorphism
+  - abstraction
 '''
 
 # 12 : Why we use OOP in our code
