@@ -65,7 +65,15 @@ class Calculator:
         return result
 
 # 7 : Take an object from the class Calculator:
-  
+class Calculator:
+    def sum(x,y):
+        result = x+y
+        return result
+    
+    def mull(x,y):
+        result = x+y
+        return result
+c = Calculator    
 
 
 
