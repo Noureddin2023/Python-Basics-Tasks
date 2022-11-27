@@ -55,7 +55,14 @@ class Calculator:
 
 # 6 : The mull method return the multiplication of the arguments x and y
 
-
+class Calculator:
+    def sum(x,y):
+        result = x+y
+        return result
+    
+    def mull(x,y):
+        result = x+y
+        return result
 
 # 7 : Take an object from the class Calculator:
   
