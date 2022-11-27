@@ -73,11 +73,19 @@ class Calculator:
     def mull(x,y):
         result = x+y
         return result
-c = Calculator    
+c = Calculator
 
 
 
 # 8 : Call the sum method with 10 , 20
+class Calculator:
+    def sum(self,x,y):
+        print(x+y)
+    
+    def mull(x,y):
+        
+c = Calculator()
+c.sum(10,20)
 
 
 
