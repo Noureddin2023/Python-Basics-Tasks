@@ -91,7 +91,16 @@ c.sum(10,20)
 
 
 # 9 : Call the mull method with 10 , 20
-
+class Calculator:
+    def sum(self,x,y):
+        print(x+y)
+    
+    def mull(self,x,y):
+        print (x*Y)
+        
+c = Calculator()
+c.sum(10,20)
+c.mull(10,20)
 
 
 
