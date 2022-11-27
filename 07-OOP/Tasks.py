@@ -106,7 +106,7 @@ c.mull(10,20)
 
 # 10 : Explain in few words why we call the self in methods
 '''
-
+By using the “self” we can access the attributes and methods of the class in python. It binds the attributes with the given arguments.
 '''
 
 # 11 : What we mean with OOP 4 Pillars
