@@ -43,7 +43,7 @@ class SciValc:
        return result
     def power(x,y):
         result=(x**y):
-       return result  
+       return result   
 
 
 
