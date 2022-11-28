@@ -16,13 +16,20 @@ class SciValc:
       return result
     def mull(x,y):
         pass
-    def power(x,y)git 
+    def power(x,y):
 
 
 
 
 # 3. Mull return the multiplication of x and y
-
+class SciValc:
+    def sum(x,y):
+      result=(x+y)
+      return result
+    def mull(x,y):
+       result=(x*y):
+       return result
+    def power(x,y):
 
 
 
