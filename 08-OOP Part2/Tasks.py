@@ -36,14 +36,14 @@ class SciValc:
 # 4. The power return x power y
 class SciValc:
     def sum(x,y):
-      result=(x+y)
-      return result
+        result=(x+y)
+        return result
     def mull(x,y):
-       result=(x*y):
-       return result
+        result=(x*y):
+        return result
     def power(x,y):
         result=(x**y):
-       return result   
+        return result   
 
 
 
