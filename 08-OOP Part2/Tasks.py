@@ -48,8 +48,16 @@ class SciValc:
 
 
 # 5. Take an object from the class and call the 3 methods with any numbers
-
-
+class SciValc:
+    def sum(x,y):
+        result=(x+y)
+        return result
+    def mull(x,y):
+        result=(x*y):
+        return result
+    def power(x,y):
+        result=(x**y):
+        return result   
 
 
 # 6. Can we inherit from the class we created in the first task Calc
