@@ -119,5 +119,5 @@ By using the “self” we can access the attributes and methods of the class in
 
 # 12 : Why we use OOP in our code
 '''
-
+    it makes code more reusable and makes it easier to work with larger programs. OOP programs prevent you from repeating code because a class can be defined once and reused many times.
 '''
