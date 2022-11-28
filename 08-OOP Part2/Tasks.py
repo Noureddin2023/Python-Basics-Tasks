@@ -10,6 +10,13 @@ class SciValc:
 
 # 2. Sum return the sum of x and y
 
+class SciValc:
+    def sum(x,y):
+      result=(x+y)
+      return result
+    def mull(x,y):
+        pass
+    def power(x,y)git 
 
 
 
