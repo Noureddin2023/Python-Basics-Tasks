@@ -12,8 +12,8 @@ class SciValc:
 
 class SciValc:
     def sum(x,y):
-      result=(x+y)
-      return result
+        result=(x+y)
+        return result
     def mull(x,y):
         pass
     def power(x,y):
