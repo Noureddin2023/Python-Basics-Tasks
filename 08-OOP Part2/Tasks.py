@@ -27,7 +27,7 @@ class SciValc:
         result=(x+y)
         return result
     def mull(x,y):
-        result=(x*y):
+        result=(x*y)
         return result
     def power(x,y):
 
@@ -39,10 +39,10 @@ class SciValc:
         result=(x+y)
         gitreturn result
     def mull(x,y):
-        result=(x*y):
+        result=(x*y)
         return result
     def power(x,y):
-        result=(x**y):
+        result=(x**y)
         return result   
 
 
@@ -53,10 +53,10 @@ class SciValc:
         result=(x+y)
         return result
     def mull(x,y):
-        result=(x*y):
+        result=(x*y)
         return result
     def power(x,y):
-        result=(x**y):
+        result=(x**y)
         return result   
 
 
