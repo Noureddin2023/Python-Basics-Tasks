@@ -24,11 +24,11 @@ class SciValc:
 # 3. Mull return the multiplication of x and y
 class SciValc:
     def sum(x,y):
-      result=(x+y)
-      return result
+        result=(x+y)
+        return result
     def mull(x,y):
-       result=(x*y):
-       return result
+        result=(x*y):
+        return result
     def power(x,y):
 
 
@@ -37,7 +37,7 @@ class SciValc:
 class SciValc:
     def sum(x,y):
         result=(x+y)
-        return result
+        gitreturn result
     def mull(x,y):
         result=(x*y):
         return result
