@@ -1,5 +1,5 @@
 # 1. Create a new class names SciCalc with 3 methods , sum , mull , power all of them takes 2 argument x, y
-class SciValc:
+class SciCalc:
     def sum(x,y):
         pass
     def mull(x,y):
@@ -10,37 +10,44 @@ class SciValc:
 
 # 2. Sum return the sum of x and y
 
-class SciValc:
-    def sum(x,y):
-        result=(x+y)
-        return result
+class SciCalc:
+    def sum(self,x,y):
+        return x+y
+        
     def mull(x,y):
         pass
     def power(x,y):
 
+c = SciCalc()
+c.sum(5,2)
 
+print(c.sum(5,2))
 
 
 # 3. Mull return the multiplication of x and y
-class SciValc:
-    def sum(x,y):
-        result=(x+y)
-        return result
-    def mull(x,y):
-        result=(x*y)
-        return result
-    def power(x,y):
+class SciCalc:
+    def sum(self,x,y):
+        return x+y 
+    def mull(self,x,y):
+        return x*y
+    def power(self,x,y):
+        return x**y
+    
+c = SciCalc()
+c.sum(5,2)
+
+print(c.sum(5,2))
 
 
 
 # 4. The power return x power y
-class SciValc:
+class SciCalc:
     def sum(x,y):
         result=(x+y)
         gitreturn result
     def mull(x,y):
-        result=(x*y)
-        return result
+        return x*y
+        
     def power(x,y):
         result=(x**y)
         return result   
@@ -48,18 +55,23 @@ class SciValc:
 
 
 # 5. Take an object from the class and call the 3 methods with any numbers
-class SciValc:
-    def sum(x,y):
-        result=(x+y)
-        return result
-    def mull(x,y):
-        result=(x*y)
-        return result
-    def power(x,y):
-        result=(x**y)
-        return result   
-
-
+class SciCalc:
+    def sum(self,x,y):
+        return x+y
+        
+    def mull(self,x,y):
+        return x*y
+        
+    def power(self,x,y):
+        return x**y
+    
+c = SciCalc()
+c.sum(5,2)
+c.mull(5,5)
+c.power(2,2)
+print(c.sum(5,2))
+print(c.mull(5,5))
+print(c.power(2,2))
 # 6. Can we inherit from the class we created in the first task Calc
 
 
