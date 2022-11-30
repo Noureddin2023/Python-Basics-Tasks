@@ -76,8 +76,8 @@ print(c.power(2,2))
 
 
 
-
 # 7. Inherit from the Calc class , now remove the unneeded code the the SciCalc after inheriting
+
 
 
 
@@ -93,3 +93,6 @@ print(c.power(2,2))
 
 
 # 10. Explain in few words what happened after inheriting
+'''
+ In place of writing the same code, again and again, we can simply inherit the properties of one class into the other
+'''
