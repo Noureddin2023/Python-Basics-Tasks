@@ -84,6 +84,26 @@ print(c.power(2,2))
 
 # 8. call the 3 methods again from the SciCalc object
 
+class Calc:
+    def mull(self,x,y):
+        return x*y
+        
+    def power(self,x,y):
+        return x**y
+
+class SciCalc(Calc):
+    def sum(self,x,y):
+        return x+y
+        
+   
+    
+c = SciCalc()
+c.sum(5,2)
+c.mull(5,5)
+c.power(2,2)
+print(c.sum(5,2))
+print(c.mull(5,5))
+print(c.power(2,2))
 
 
 
