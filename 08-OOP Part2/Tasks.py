@@ -89,7 +89,11 @@ print(c.power(2,2))
 
 # 9. Now you should see the same result as before
 
+yes
 
+7
+25
+4
 
 
 # 10. Explain in few words what happened after inheriting
