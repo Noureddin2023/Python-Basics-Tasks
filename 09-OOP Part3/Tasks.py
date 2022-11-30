@@ -19,10 +19,17 @@
 
     # 4. main class
 
-
+    '''
+      acts as the point of execution for any program
+    '''
 
 
     # 5. Derived class
+
+
+
+
+    # 6. Instance
 
     
 
