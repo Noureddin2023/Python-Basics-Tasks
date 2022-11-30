@@ -25,12 +25,15 @@
 
 
     # 5. Derived class
-
-
+    '''
+      A Derived class is also called a child class or subclass
+    '''
 
 
     # 6. Instance
-
+    '''
+      called an object
+    '''  
     
 
 # 2. Explain in few words what we mean with the word polymorphism , give an example    
