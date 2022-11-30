@@ -29,3 +29,7 @@
 
 
 # 3. Can we inherit from more than one class in python
+
+
+
+# 4. If yes how multiple inheritance works
