@@ -1,12 +1,11 @@
 # 1. Create a new class names SciCalc with 3 methods , sum , mull , power all of them takes 2 argument x, y
+
 class SciCalc:
     def sum(x,y):
         pass
     def mull(x,y):
         pass
     def power(x,y)
-
-
 
 # 2. Sum return the sum of x and y
 
@@ -23,8 +22,8 @@ c.sum(5,2)
 
 print(c.sum(5,2))
 
-
 # 3. Mull return the multiplication of x and y
+
 class SciCalc:
     def sum(self,x,y):
         return x+y 
@@ -39,7 +38,6 @@ c.sum(5,2)
 print(c.sum(5,2))
 
 
-
 # 4. The power return x power y
 class SciCalc:
     def sum(x,y):
@@ -51,7 +49,6 @@ class SciCalc:
     def power(x,y):
         result=(x**y)
         return result   
-
 
 
 # 5. Take an object from the class and call the 3 methods with any numbers
@@ -74,6 +71,20 @@ print(c.mull(5,5))
 print(c.power(2,2))
 # 6. Can we inherit from the class we created in the first task Calc
 
+yes
+
+class Calc:
+
+
+class SciCalc(Calc):
+    def sum(self,x,y):
+        return x+y
+        
+    def mull(self,x,y):
+        return x*y
+        
+    def power(self,x,y):
+        return x**y
 
 
 # 7. Inherit from the Calc class , now remove the unneeded code the the SciCalc after inheriting
@@ -87,7 +98,7 @@ class Calc:
 
 class SciCalc(Calc):
     def sum(self,x,y):
-        return x+y
+        return x+ygit
 
 
 
@@ -113,7 +124,6 @@ c.power(2,2)
 print(c.sum(5,2))
 print(c.mull(5,5))
 print(c.power(2,2))
-
 
 
 # 9. Now you should see the same result as before
