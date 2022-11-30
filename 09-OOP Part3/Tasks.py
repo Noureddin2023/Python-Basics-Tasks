@@ -28,3 +28,4 @@
 
 
 
+# 3. Can we inherit from more than one class in python
