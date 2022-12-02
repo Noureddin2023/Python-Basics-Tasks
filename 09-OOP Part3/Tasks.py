@@ -44,7 +44,8 @@ Polymorphism in Python is the ability of an object to take many forms.
 
 
 # 3. Can we inherit from more than one class in python
-
-
+'''
+yes,In Python a class can inherit from more than one class
+'''
 
 # 4. If yes how multiple inheritance works
