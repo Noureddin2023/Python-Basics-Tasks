@@ -37,7 +37,9 @@
     
 
 # 2. Explain in few words what we mean with the word polymorphism , give an example    
-
+'''
+Polymorphism in Python is the ability of an object to take many forms.
+'''
 
 
 
