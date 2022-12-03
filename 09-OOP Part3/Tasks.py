@@ -49,3 +49,6 @@ yes,In Python a class can inherit from more than one class
 '''
 
 # 4. If yes how multiple inheritance works
+'''
+In multiple inheritance, the features of all the base classes are inherited into the derived class. The syntax for multiple inheritance is similar to single inheritance.
+'''
